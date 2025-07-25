@@ -7,6 +7,7 @@ public class Result {
     public int comparacoes;
     public String cadeiaBase;
     public String cadeiaProcurada;
+    public String algoritmo;
     public int casaCasamento;
     public double tempoExecucao = 0.0;
 }
